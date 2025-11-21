@@ -4,9 +4,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=idusara&label=Profile%20views&color=0e75b6&style=flat" alt="idusara" /> </p>
 
 - 🌱 I’m currently learning **Java**
--  💻 IT Undergraduate
+-  💻 IT Undergraduate at at SLIIT (Sri Lanka Institute of Information Technology)
 - 💬 Ask me about **java,html,css,c++,React, Node.js,Python, JavaScript,UI/UX basics**
-
+🚀 About Me
+🔭 Currently learning advanced Web Development and Mobile App Development
+🌱 Exploring Cloud Computing & AI/ML
+🎯 Goal: Become a Full-Stack Engineer and contribute to impactful projects
+⚡ Fun fact: I love solving coding challenges & exploring new tech trends
 - 📫 How to reach me **idusarachathum1@gmail.com**
 - LinkedIn **https://www.linkedin.com/in/idusara-chathum-03075a320/**
 
