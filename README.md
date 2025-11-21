@@ -12,7 +12,7 @@
 - 🌱 Exploring Cloud Computing & AI/ML
 - 🎯 Goal: Become a Full-Stack Engineer and contribute to impactful projects
 - ⚡ Fun fact: I love solving coding challenges & exploring new tech trends
-- <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="6px">
+-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="6px">
 - 📫 How to reach me **idusarachathum1@gmail.com**
 - LinkedIn **https://www.linkedin.com/in/idusara-chathum-03075a320/**
 
