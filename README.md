@@ -13,6 +13,7 @@
 - 🌱 Exploring Cloud Computing & AI/ML
 - 🎯 Goal: Become a Full-Stack Engineer and contribute to impactful projects
 - ⚡ Fun fact: I love solving coding challenges & exploring new tech trends
+- <img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=3" />
 - 📫 How to reach me **idusarachathum1@gmail.com**
 - LinkedIn **https://www.linkedin.com/in/idusara-chathum-03075a320/**
 
