@@ -6,12 +6,13 @@
 - 🌱 I’m currently learning **Java**
 -  💻 IT Undergraduate at at SLIIT (Sri Lanka Institute of Information Technology)
 - 💬 Ask me about **java,html,css,c++,React, Node.js,Python, JavaScript,UI/UX basics**
-- <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4px"/>
+ <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4px"/>
 - 🚀 About Me
 - 🔭 Currently learning advanced Web Development and Mobile App Development
 - 🌱 Exploring Cloud Computing & AI/ML
 - 🎯 Goal: Become a Full-Stack Engineer and contribute to impactful projects
 - ⚡ Fun fact: I love solving coding challenges & exploring new tech trends
+  <img src="https://raw.githubusercontent.com/kyechan99/capsule-render/master/src/images/base.png" width="100%" height="2px">
 - 📫 How to reach me **idusarachathum1@gmail.com**
 - LinkedIn **https://www.linkedin.com/in/idusara-chathum-03075a320/**
 
