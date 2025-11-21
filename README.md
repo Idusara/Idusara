@@ -8,6 +8,7 @@
 - 💬 Ask me about **java,html,css,c++,React, Node.js,Python, JavaScript,UI/UX basics**
 
 - 📫 How to reach me **idusarachathum1@gmail.com**
+- LinkedIn **https://www.linkedin.com/in/idusara-chathum-03075a320/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
