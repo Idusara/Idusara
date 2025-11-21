@@ -6,6 +6,7 @@
 - 🌱 I’m currently learning **Java**
 -  💻 IT Undergraduate at at SLIIT (Sri Lanka Institute of Information Technology)
 - 💬 Ask me about **java,html,css,c++,React, Node.js,Python, JavaScript,UI/UX basics**
+- <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4px"/>
 - 🚀 About Me
 - 🔭 Currently learning advanced Web Development and Mobile App Development
 - 🌱 Exploring Cloud Computing & AI/ML
