@@ -5,7 +5,9 @@
   <img src="https://komarev.com/ghpvc/?username=idusara&label=Profile%20views&color=0e75b6&style=flat-square" alt="idusara" />
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&width=1000&height=7&section=header&reversal=false&animation=fadeIn" width="100%" />
+</p>
 
 ### 🚀 About Me
 
@@ -14,8 +16,12 @@ I am an **IT Undergraduate at SLIIT**, focused on building scalable web applicat
 * 🌱 Currently learning: **Java & Advanced Web Development**
 * 💻 Working with: **MERN Stack (MongoDB, Express.js, React, Node.js)**
 * 🔭 Exploring: **Cloud Computing & AI/ML**
-* 🎯 Goal: To become a **Full-Stack Engineer** and contribute to impactful open-source projects.
-* ⚡ Fun fact: I love solving coding challenges and continuous learning.
+* 🎯 Goal: To become a **Full-Stack Engineer**
+* ⚡ Fun fact: I love solving coding challenges and exploring new tech trends.
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&width=1000&height=7&section=header&reversal=false&animation=fadeIn" width="100%" />
+</p>
 
 ---
 
@@ -29,7 +35,7 @@ I am an **IT Undergraduate at SLIIT**, focused on building scalable web applicat
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
 </p>
 
-#### **Backend & Database (MERN Focus)**
+#### **Backend & Database (MERN)**
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/>
@@ -37,12 +43,11 @@ I am an **IT Undergraduate at SLIIT**, focused on building scalable web applicat
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
 </p>
 
-#### **Other Languages & Hardware**
+#### **Other Tech**
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
 </p>
 
@@ -60,5 +65,5 @@ I am an **IT Undergraduate at SLIIT**, focused on building scalable web applicat
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=idusara&show_icons=true&theme=radical" alt="Idusara's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=idusara&show_icons=true&theme=radical" alt="Idusara's Stats" />
 </p>
