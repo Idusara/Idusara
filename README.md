@@ -51,7 +51,6 @@ I am an **IT Undergraduate at SLIIT**, focused on building scalable web applicat
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
 </p>
 
----
 
 ### 🤝 Connect with me
 
